@@ -6,11 +6,14 @@
   },
   "flex-layout.row": {
     "children": [
-      "flex-layout.col#collun01",
+      "info-card#rethink",
       "flex-layout.col#collun02"
     ]
   },
   "flex-layout.col#collun01": {
+    "props": {
+      "minHeight": "100%"
+    },
     "children": [
       "info-card#rethink"
     ]
