@@ -11,8 +11,7 @@
  },
   "search-result-layout.desktop": {
     "props": {
-      "paginations": "show-more",
-      "preventRouteChange": true
+      "pagination": "show-more"
     },
     "children": [
       "breadcrumb.search",
