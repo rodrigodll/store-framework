@@ -1,9 +1,14 @@
 {
   "store.search": {
     "blocks": [
-      "search-result-layout.desktop"
+      "search-result-layout"
     ]
   },
+  "search-result-layout": {
+    "blocks": [
+       "search-result-layout.desktop"
+    ]
+ },
   "search-result-layout.desktop": {
     "props": {
       "paginations": "show-more"
